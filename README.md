@@ -1,5 +1,5 @@
 # Footballer Explorer
-The system should help the player to identify his position in the field on the other hand help the coach to (add-edit-delete) new rules and conditions for detection of the position
+Desktop Application that helps the player to identify his position in the field, also helps the coach to manage that system (add-delete-update)
 
 ## Built With
 
