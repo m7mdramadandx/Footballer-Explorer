@@ -1,5 +1,5 @@
 # Footballer Explorer
-Desktop Application that helps the player to identify his position in the field, also helps the coach to manage that system (add-delete-update)
+Desktop Application that helps the player to identify his position in the field, also helps the coach to manage that system (add-delete-update) using KBS
 
 ## Built With
 
